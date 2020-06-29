@@ -148,10 +148,12 @@ h2::first-letter {
 }
 
 #head2 a {
-    background-color: grey;
+    background-color: white;
     padding: 10px;
     border-radius: 30px;
+    background: rgba(80, 90, 180, 0.3);
     text-decoration: none;
+    color: #7C0505;
 }
 
 html {
